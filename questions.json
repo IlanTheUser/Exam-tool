@@ -4808,7 +4808,9 @@
         "question": "A company wants to use machine learning capabilities to analyze log data from its Amazon EC2 instances and efficiently conduct security investigations. Which AWS service will meet these requirements?",
         "answers": {
             "A": "Amazon Inspector",
-            "B": "Amazon QuickSight"
+            "B": "Amazon QuickSight",
+            "c": "Amazon Detective",
+            "D": "Amazon GuardDuty"
         },
         "correct_answer": [
             "C"
