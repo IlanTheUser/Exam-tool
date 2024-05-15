@@ -4796,7 +4796,9 @@
         "question": "A company wants a report that lists the status of multi-factor authentication (MFA) devices that all users in the company's AWS account use. Which AWS feature or service will meet this requirement?",
         "answers": {
             "A": "AWS Cost and Usage Reports",
-            "B": "IAM credential reports"
+            "B": "IAM credential reports",
+            "C": "AWS Artifact",
+            "D": "Amazon CloudFront reports"
         },
         "correct_answer": [
             "B"
