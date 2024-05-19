@@ -28,7 +28,8 @@
         "answers": {
             "A": "Create an Amazon S3 bucket for each user. Mount each bucket by using an S3 file system mounting utility.",
             "B": "Configure and deploy an AWS Storage Gateway file gateway. Connect each user’s workstation to the file gateway.",
-            "C": "Move each user’s working environment to Amazon WorkSpaces. Set up an Amazon WorkDocs account for each user."
+            "C": "Move each user’s working environment to Amazon WorkSpaces. Set up an Amazon WorkDocs account for each user.",
+            "D": "Deploy an Amazon EC2 instance and attach an Amazon Elastic Block Store (Amazon EBS) Provisioned IOPS volume. Share the EBS volume directly with the users."
         },
         "correct_answer": [
             "B"
@@ -4797,8 +4798,8 @@
         "answers": {
             "A": "AWS Cost and Usage Reports",
             "B": "IAM credential reports",
-            "C": "AWS Artifact",
-            "D": "Amazon CloudFront reports"
+            "C":  "AWS Artifact",
+            "D":  "Amazon CloudFront reports"
         },
         "correct_answer": [
             "B"
@@ -4809,7 +4810,7 @@
         "answers": {
             "A": "Amazon Inspector",
             "B": "Amazon QuickSight",
-            "c": "Amazon Detective",
+            "C": "Amazon Detective",
             "D": "Amazon GuardDuty"
         },
         "correct_answer": [
